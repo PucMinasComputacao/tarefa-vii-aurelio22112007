@@ -5,12 +5,11 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Aurélio Augusto
+- Matricula: 2541231
 
-## Print do console do navegador
-
-<<  COLOQUE A IMAGEM AQUI >>
+## Print do console do navegador 
+![Imagem Java](public/java.png)
 
 
 
